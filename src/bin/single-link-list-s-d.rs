@@ -66,7 +66,7 @@ fn main() {
     if list.search_and_delete(target1) {
         println!("Success: {} found and deleted.", target1);
     } else {
-        println!("Failed: {} not found.", target1);
+        println!("Failed: {} not  bbb found.", target1);
     }
     list.print_list();
 
